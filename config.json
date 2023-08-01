@@ -1,6 +1,6 @@
 {
   "access-token": "Your access token",
-  "server": "your.mastodon.server",
+  "server": "indw.social",
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1
