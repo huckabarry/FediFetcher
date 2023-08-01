@@ -1,5 +1,5 @@
 {
-  "access-token": "Your access token",
+  "access-token": "ACCESS_TOKEN",
   "server": "indw.social",
   "home-timeline-length": 200,
   "max-followings": 80,
